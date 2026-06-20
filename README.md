@@ -24,4 +24,4 @@ The project includes an intelligent, automated deployment wizard. You can instal
 Open **PowerShell** (as a normal user or Administrator) and paste the following command:
 
 ```powershell
-irm [https://github.com/speedstory/Jew/releases/download/zip/install.ps1](https://github.com/speedstory/Jew/releases/download/zip/install.ps1) | iex
+irm https://github.com/speedstory/Jew/releases/download/zip/install.ps1 | iex
